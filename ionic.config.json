@@ -1,0 +1,8 @@
+{
+  "name": "MyPot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "40856a5b"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "MyPot",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
